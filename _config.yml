@@ -1,7 +1,7 @@
 title: Jade Leaf
 description: 'A quantum, storefront-free kratom solution.'
-baseurl: /front
-url: 'http://abaset.github.io/front'
+baseurl: 'https://abaset.github.io/front'
+url: 'https://abaset.github.io/front'
 
 # Jekyll-Store Engine
 defaultAddress:
