@@ -12,7 +12,7 @@ payment:
 tracking_id: 'UA-62379004-1'
 
 # Jekll-Store Front
-image_prefix: 'http://abaset.github.io/front/images/'
+image_prefix: 'http://abaset.github.io/front/'
 paymillPublicKey: 323027826220f6ed944b96a1a47e35a0
 wake_up: 'http://jekyll-store-microservice.herokuapp.com/ping'
 disqus_shortname: 'jekyll-store'
